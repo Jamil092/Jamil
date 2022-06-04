@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ margin-left: 70px;
+}
+
+li {
+  float: left;
+  margin-top: 27px;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+img{
+  float: left;
+  margin-right: 265px;
+  margin-top: 20px;
+}
+
+
+.col p-2 img{
+  margin-left: 133px;
+}
+
